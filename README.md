@@ -1,9 +1,9 @@
 
-# 🦊 UE19 - Lab 05 : API RandomFox
+# UE19 - Lab 05 : API RandomFox
 
-## 🎯 Description
+## Description
 Ce projet interroge l'API publique **RandomFox** ([https://randomfox.ca/floof/](https://randomfox.ca/floof/))  
-L'application affiche dans la console un **lien vers une image aléatoire de renard** 🦊.
+L'application affiche dans la console un **lien vers une image aléatoire de renard** .
 
 
 
