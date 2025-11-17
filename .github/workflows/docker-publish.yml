@@ -101,3 +101,5 @@ jobs:
         #test
       - name: Aqua Security Trivy
         uses: aquasecurity/trivy-action@0.33.1
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
