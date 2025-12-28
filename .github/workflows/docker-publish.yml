@@ -102,4 +102,4 @@ jobs:
       - name: Aqua Security Trivy
         uses: aquasecurity/trivy-action@0.33.1
         with:
-          image-ref: ${{ steps.meta.outputs.tags }}
+          image-ref: ghcr.io/nielsbrsr/ue19-lab-05:main
